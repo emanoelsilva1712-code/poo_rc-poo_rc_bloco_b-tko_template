@@ -1,6 +1,6 @@
 ---
-nomeAluno: "Seu nome"
-matricula: "Digite sua matrícula aqui por obséquio"
+nomeAluno: "Emanoel Silva"
+matricula: "583040"
 ---
 
 # Configurações iniciais no codespace
